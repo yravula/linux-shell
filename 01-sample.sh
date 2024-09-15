@@ -1,4 +1,6 @@
-# Comment line 1
+#!/bin/bash
+
+echo "test bash sample"
 date
 pwd
 ls
