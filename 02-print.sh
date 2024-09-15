@@ -8,3 +8,5 @@ echo Hello world
 #syntax : echo -e "line1\nline2"
 
 echo -e "Hello, \nwelcome to the practise session"
+
+echo -e "Hello, \n\nwelcome to the practise session" 
