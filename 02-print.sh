@@ -1,6 +1,6 @@
 # echo and printf cmd
 
-#syntax :echo input message
+#syntax :echo input mesage
 
 echo Hello world
 
@@ -9,8 +9,10 @@ echo Hello world
 
 echo -e "Hello, \nwelcome to the practise session"
 
-echo -e "Hello, \n\nnwelcome to the practise session"
+echo -e "Hello, \n\nwelcome to the practise session" 
 
-pwd
+#test from Vscode pull
+
+ls 
+pwd 
 date
-
