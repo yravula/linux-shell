@@ -11,4 +11,6 @@ echo -e "Hello, \nwelcome to the practise session"
 
 echo -e "Hello, \n\nnwelcome to the practise session"
 
-echo -e "Hello, \n\n\n\nwelcome to the practise session"
+pwd
+date
+
