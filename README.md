@@ -13,4 +13,4 @@ Topics:
 8. Awk
 
 
-# list to be covered
+# listed topics need to be covered in a week
