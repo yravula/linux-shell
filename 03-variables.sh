@@ -2,7 +2,7 @@
 
 COURSE=Devops
 echo course name = $COURSE
-
+#dynamic date call
 DATE=(date +%F)
 
 echo Good Morning, Welcome to today class on $DATE
