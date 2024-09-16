@@ -6,7 +6,7 @@ echo course name = $COURSE
 DATE=(date +%F)
 
 echo Good Morning, Welcome to today class on $DATE
-a=100
-b=200
 
-echo print c =($a+$b)
+no_of_users =$(who | wc -l)
+echo Number of users logged into the system = $no_of_users
+
