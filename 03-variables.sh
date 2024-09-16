@@ -1,13 +1,12 @@
 # declare variables
 
+COURSE=Devops
 echo course name = $COURSE
 
-DATE=16-19-2024
+DATE=(date +%F)
 
 echo Good Morning, Welcome to today class on $DATE
 a=100
 b=200
 
-
-
-echo print c =(a+B)
+echo print c =($a+$b)
