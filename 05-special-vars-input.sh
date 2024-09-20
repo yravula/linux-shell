@@ -15,4 +15,4 @@ echo $*
 echo $@
 
 #number of arguments
- echo #$
+ echo $#
